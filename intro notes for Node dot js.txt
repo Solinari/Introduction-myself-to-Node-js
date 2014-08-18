@@ -1,0 +1,10 @@
+Process is a global variable that is central to Node
+
+process.pid is the pid //what is pid? pid is process id
+
+if you just type process you see all the stuff in process
+
+
+Node never stops, sleeps, or waits to fetch and wait for things to come back
+
+Node doesnt have the ability to sleep. only to use setTimeout
